@@ -1,0 +1,4 @@
+.DS_Store
+# secrets and the unencrypted test page
+.env
+docs/dev.html
